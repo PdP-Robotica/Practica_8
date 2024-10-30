@@ -59,12 +59,12 @@ On 2
 	Home
 	Go Pallet(0, 1, 1) 
 	On 2
-  Home
+  	Home
 	Go arriba_punto2
 	Move agarrar_punto2
 	Off 2
 	Move arriba_punto2
-  Home
+  	Home
 	Go Pallet(0, 1, 2) 
 	On 2
 	Home
@@ -75,7 +75,7 @@ On 2
 	Home
 	Go Pallet(0, 2, 1)
 	On 2
-  Home
+  	Home
 	Go arriba_punto4
 	Move agarrar_punto4
 	Off 2

@@ -25,5 +25,5 @@ Siendo los mismos, es decir que se seguiran usando el Pallet 0 y las mismas coor
 
 Ahora bien, a diferencia de la práctica pasada el comando utilizado cambia para generar una matriz de 3x2 obteniendo lo siguiente:
 
-<h1>**Pallet 0, E1, E2, E3, 3, 2**</h1>
+**<h1>Pallet 0, E1, E2, E3, 3, 2</h1>**
 

@@ -24,7 +24,7 @@ Es decir que se seguiran usando el Pallet 0 y las mismas coordenadas para defini
 
 ![image](https://github.com/user-attachments/assets/093fb58c-a417-4cbc-ab27-7a51b3ec43a3)
 
-Ahora bien, a diferencia de la práctica pasada el comando utilizado cambia para generar una matriz de 3x2 obteniendo lo siguiente:
+Ahora bien, a diferencia de la práctica pasada el comando utilizado cambia para generar una matriz de 3x2 obteniendo el siguiente comando:
 
 **<h1>Pallet 0, E1, E2, E3, 3, 2</h1>**
 

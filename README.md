@@ -34,7 +34,7 @@ Ahora bien, como se debe de recoger un fusible de cada uno de los 6 contenedores
 
 ![image](https://github.com/user-attachments/assets/ed536e21-7eff-46c0-9700-06529eff2bdd)
 
-Es importante mencionar que se guardaron dos posiciones para cada fusibles, en la parte superior del fusible y sobre el, esto con el objetivo de evitar colisiones a la hora de recolectarlos.
+Es importante mencionar que se guardaron dos posiciones para cada fusibles, sobre el fusible y tocando el fusible, esto con el objetivo de evitar colisiones a la hora de recolectarlos.
 
 ### 3.- Escribir el código
 

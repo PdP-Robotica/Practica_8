@@ -19,9 +19,11 @@ Gracias a esta configuración, el robot puede posicionar los fusibles sin interv
 ### 1. Uso de la función Pallet
 La función Pallet necesita algunos parámetros para su correcto funcionamiento. Los cuales son los mismos que se utilizaron en la práctica pasada.
 
-Siendo los mismos, es decir que se seguiran usando el Pallet 0 y las mismas coordenadas para definir el área de trabajo. Teniendo las mismas posiciones, el primer punto debe estar en la esquina inferior izquierda, el segundo punto en la esquina inferior derecha, y el tercero en la esquina superior izquierda. En la imagen se visualiza cómo deben ser las posiciones de los puntos.
+Siendo los mismos, es decir que se seguiran usando el Pallet 0 y las mismas coordenadas para definir el área de trabajo. Teniendo las mismas posiciones (1º punto = esquina inferior izquierda, 2º = esquina inferior derecha y 3º = esquina superior izquierda). De igual manera se utilizan las mismas coordenadas como se muestra en la imagen.
 
-![image](https://github.com/user-attachments/assets/4744b7fb-1a71-437a-a3f3-a700e188e5ed)
+![image](https://github.com/user-attachments/assets/093fb58c-a417-4cbc-ab27-7a51b3ec43a3)
 
+Ahora bien, a diferencia de la práctica pasada el comando utilizado cambia para generar una matriz de 3x2 obteniendo lo siguiente:
 
+<h1>***Pallet 0, E1, E2, E3, 3, 2*</h1>
 

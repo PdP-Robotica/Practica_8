@@ -30,7 +30,7 @@ Ahora bien, a diferencia de la práctica pasada el comando utilizado cambia para
 
 ### 2.- Obtener las coordenadas para cada fusible
 
-Ahora bien, como se debe de recoger un fusible de cada una de los 6 contenedores, es necesario recolectar cada posición de manera individual, obteniendo las siguientes:
+Ahora bien, como se debe de recoger un fusible de cada uno de los 6 contenedores, es necesario recolectar cada posición de manera individual, obteniendo las siguientes:
 
 ![image](https://github.com/user-attachments/assets/ed536e21-7eff-46c0-9700-06529eff2bdd)
 

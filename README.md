@@ -1,4 +1,4 @@
-# Practica_8
+# Práctica 8
 ## Integrantes:
 - Luis Fernando Duarte Reséndiz.
   
